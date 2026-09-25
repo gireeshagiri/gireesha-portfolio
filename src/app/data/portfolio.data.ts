@@ -64,8 +64,8 @@ export const PROFILE = {
   languages: 'English, Tamil, Telugu, Kannada',
   email: 'gireeshafed@gmail.com',
   phone: '+91 73585 29368',
-  linkedin: 'https://www.linkedin.com/', // TODO: paste your LinkedIn profile URL
-  github: '', // optional: paste your GitHub URL, or leave empty to hide it
+  linkedin: 'https://www.linkedin.com/in/gireesha-r-1a333b194/',
+  github: 'https://github.com/gireeshagiri',
   resumeUrl: 'Gireesha_R_Resume.pdf', // your CV in the public/ folder; replace the file to update it
 };
 
