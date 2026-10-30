@@ -1,6 +1,6 @@
 # Gireesha R · Portfolio
 
-Personal portfolio of **Gireesha R**, Senior Frontend Developer (Angular · TypeScript · RxJS · NgRx).
+Personal portfolio of **Gireesha R**, Frontend Developer (Angular · TypeScript · RxJS · NgRx).
 
 Built with **Angular 21** using standalone components, signals, the new `@if` / `@for` control flow and zoneless change detection. No UI library: all styling is hand-written SCSS with light and dark themes.
 

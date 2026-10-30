@@ -51,12 +51,12 @@ export interface Education {
 export const PROFILE = {
   name: 'Gireesha R',
   initials: 'GR',
-  title: 'Senior Frontend Developer',
+  title: 'Frontend Developer',
   tagline:
     'Angular developer building scalable, responsive web applications for a multi-country insurance platform.',
-  location: 'Hosur, Tamil Nadu, India',
-  shortLocation: 'Hosur, TN',
-  latestAngular: 'Angular 20',
+  location: 'Bengaluru, Karnataka, India',
+  shortLocation: 'Bengaluru, KA',
+  latestAngular: 'Angular 21',
   badge: 'Angular · TypeScript · RxJS · NgRx',
   about: [
     'Frontend developer building Angular apps for Afrisure, a multi-country insurance platform. I lead a team of 4 and focus on clean architecture and reusable components.',
@@ -143,6 +143,14 @@ export const PROJECTS: Project[] = [
     kind: 'Member company platform',
     summary: 'Insurance platform for member companies in the Malawian market.',
     tech: ['Angular', 'TypeScript', 'REST APIs'],
+  },
+  {
+    name: 'API Tester',
+    kind: 'API testing tool',
+    summary: 'Browser-based API client to build requests, save collections, switch environments and run tests.',
+    tech: ['React.js', 'Vite', 'JavaScript', 'Supabase'],
+    liveUrl: 'https://gireeshagiri.github.io/api-tester/',
+    codeUrl: 'https://github.com/gireeshagiri/api-tester',
   },
 ];
 

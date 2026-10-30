@@ -80,7 +80,7 @@ function parseStat(value: string, label: string): CountStat {
   role: <span class="s">'{{ p.title }}'</span>,
   stack: [<span class="s">'Angular'</span>, <span class="s">'TypeScript'</span>, <span class="s">'RxJS'</span>, <span class="s">'NgRx'</span>],
   domain: <span class="s">'Insurance platforms'</span>,
-  basedIn: <span class="s">'Hosur, Tamil Nadu'</span>,
+  basedIn: <span class="s">'Bengaluru, Karnataka'</span>,
   leads: <span class="s">'team of 4 developers'</span>,
 {{ '}' }} <span class="k">satisfies</span> Engineer;<span class="cursor" aria-hidden="true"></span></code></pre>
           <div class="glow" aria-hidden="true"></div>
