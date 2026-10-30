@@ -145,6 +145,12 @@ export const PROJECTS: Project[] = [
     tech: ['Angular', 'TypeScript', 'REST APIs'],
   },
   {
+    name: 'Gen AI Proof of Concept',
+    kind: 'Generative AI',
+    summary: 'Angular app that streams replies from Gemini models using SSE, with a .NET 8 backend.',
+    tech: ['Angular', 'TypeScript', '.NET 8', 'Gemini', 'SSE'],
+  },
+  {
     name: 'API Tester',
     kind: 'API testing tool',
     summary: 'Browser-based API client to build requests, save collections, switch environments and run tests.',
